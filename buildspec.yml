@@ -4,7 +4,7 @@ env:
   variables:
     AWS_DEFAULT_REGION: "eu-central-1"
     AWS_ACCOUNT_ID    : "654654144212"
-    ECR_REPO_NAME     : "MyFirstCICDPipelinee"
+    ECR_REPO_NAME     : "webpagev3"
     ECR_IMAGE_TAG     : "latest"
 
 phases:
